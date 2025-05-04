@@ -14,13 +14,10 @@ go build -o installer main.go
 go build -o uninstaller uninstaller.go
 ```
 ### Screenshots
---- 
-![Screenshot1](assets-git/scree1.png)
---- 
-![Screenshot2](assets-git/scree2.png)
---- 
-![Screenshot3](assets-git/scree3.png)
---- 
+
+![Screenshot](assets-git/screen1.png)
+![Screenshot](assets-git/screen2.png)
+![Screenshot](assets-git/screen3.png)
 ### 📝 **License**
 
 This project is licensed under the [MIT](./LICENSE) license.
