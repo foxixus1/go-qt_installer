@@ -6,10 +6,6 @@
 ### Build manually
 ```sh
 go mod download
-go install
-```
-or
-```sh
 go build -o installer main.go
 go build -o uninstaller uninstaller.go
 ```
