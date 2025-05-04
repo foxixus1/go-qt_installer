@@ -14,9 +14,9 @@ go build -o installer main.go
 go build -o uninstaller uninstaller.go
 ```
 ### Screenshots
-![Screenshot](assets-git/scree1.jpg)
-![Screenshot](assets-git/scree2.jpg)
-![Screenshot](assets-git/scree3.jxl)
+![Screenshot](assets-git/scree1.png)
+![Screenshot](assets-git/scree2.png)
+![Screenshot](assets-git/scree3.png)
 
 ### 📝 **License**
 
